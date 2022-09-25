@@ -16,3 +16,7 @@ aws eks update-kubeconfig \
   --profile eks-admin
 
 - sample app: https://docs.aws.amazon.com/eks/latest/userguide/alb-ingress.html
+
+
+## links
+https://www.youtube.com/watch?v=kRKmcYC71J4
